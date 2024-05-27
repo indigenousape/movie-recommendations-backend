@@ -17,6 +17,7 @@
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "justwatch-api": "^1.0.7",
+    "node-cache": "^5.1.2",
     "openai": "^4.47.1"
   }
 }
